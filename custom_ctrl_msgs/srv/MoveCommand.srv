@@ -1,0 +1,4 @@
+geometry_msgs/Transform pose
+bool near_interaction
+---
+bool is_valid
