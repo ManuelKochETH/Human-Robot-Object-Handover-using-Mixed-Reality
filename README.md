@@ -5,7 +5,7 @@
 2. Unity-Robotics-Hub : https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/ros_unity_integration/README.md
 3. Interbotix API: https://www.trossenrobotics.com/docs/interbotix_xsarms/ros_interface/ros2_software_setup.html
 
-For the Installation of the HoloLens application see ???
+For the Installation of the HoloLens application see https://github.com/ManuelKochETH/Master-Thesis-Unity.git
 
 ## Package installation
 1. Clone repository
